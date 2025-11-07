@@ -14,4 +14,5 @@ console.log(numero)
 const nome = "Luiz"
 console.log(Nome)
 // nome = "Luiz" nao pode atribuir valor
-//  para constante depois de declarar 
+//  para constante depois de declarar
+ 
